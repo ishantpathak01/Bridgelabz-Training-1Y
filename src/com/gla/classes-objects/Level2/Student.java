@@ -1,4 +1,4 @@
-package com.gla.classes-objects.Level1;
+package com.gla.classes-objects.Level2;
 import java.util.Scanner;
 class Student {
     String name;
